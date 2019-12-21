@@ -1,0 +1,19 @@
+
+.bg-dark-cust{
+	background: linear-gradient(to top, #0c0c0c 0, #232323 100%);
+	font-family:'Microsoft JhengHei';
+  }
+.font-en{
+	font-family: 'Arial Black','Microsoft JhengHei';
+	font-size:13px;
+	line-height:1;
+}
+.img-bg-cust{
+	background-position: center;
+    cursor: pointer;
+	background-repeat: no-repeat;
+	height:450px;
+}
+.shadow-cust{
+	filter: drop-shadow(12px 12px 7px rgba(0, 0, 0, 0.7));
+}
