@@ -1,21 +1,9 @@
-# vuewebpack
+# Demo
 
-> A Vue.js project
+https://seanlibra.github.io/RePublic-of-Gamer/#/
 
-## Build Setup
+# 前台部分
 
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+![image](https://github.com/seanlibra/RePublic-of-Gamer/blob/master/messageImage_1577351805496.jpg)
+# 後台部分
+![image](https://github.com/seanlibra/RePublic-of-Gamer/blob/master/messageImage_1577352286489.jpg)
